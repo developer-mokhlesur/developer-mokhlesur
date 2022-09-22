@@ -60,7 +60,7 @@
 
 [![Dev-Mokhlesur's github activity graph](https://activity-graph.herokuapp.com/graph?username=developer-mokhlesur&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/developer-mokhlesrur/github-readme-activity-graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-mokhlesur&show_icons=true&locale=en&layout=compact" alt="developer-mokhlesur" /></p> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-mokhlesur&show_icons=true&locale=en&layout=compact" alt="developer-mokhlesur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-mokhlesur&show_icons=true&locale=en" alt="developer-mokhlesur" /></p>
 
