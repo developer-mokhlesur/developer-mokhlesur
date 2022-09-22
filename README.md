@@ -1,4 +1,4 @@
-![logo](https://github.com/developer-mokhlesur/ttt/blob/main/Violet%20Colorful%20Gradient%20Geometric%20Line%20And%20Shapes%20Innovation%20Festival%20Banner.png)
+![logo](https://github.com/developer-mokhlesur/banner/blob/main/Violet%20Colorful%20Gradient%20Geometric%20Line%20And%20Shapes%20Innovation%20Festival%20Banner.png)
 <h1 align="center">Hi 👋, I'm Md Mokhlesur Rahman</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="">
