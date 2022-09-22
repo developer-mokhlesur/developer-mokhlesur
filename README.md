@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/md-mokhlesur-rahman-154b32242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mokhlesur-rahman-154b32242" height="30" width="40" /></a>
 <a href="https://fb.com/developer.mokhlesur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developer.mokhlesur" height="30" width="40" /></a>
 <a href="https://instagram.com/developer_mokhlesur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer_mokhlesur/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/learn freelancing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learn freelancing" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/channel/UC7UWHnuzzUMnHjCL2zmXGeA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learn freelancing" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
